@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1216
     wikipedia: http://en.wikipedia.org/wiki/Lucy_Fitch_Perkins
 description: Read about Nancy and Daniel and their stern life of pioneer New England.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16644#The-Puritan-Twins
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2005-09-04'
 gutenberg_type: Text
